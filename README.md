@@ -2,6 +2,8 @@
 
 A comprehensive **Climate & Public Health Monitoring Platform** built with modern React technologies. ClimateWatch monitors real-time weather data and health metrics across Indian cities, providing intelligent insights and automated daily email reports with AI-powered health recommendations.
 
+🌐 **Live Demo:** https://health-weather-sync-ebon.vercel.app/
+
 ## 📋 Project Info
 
 **Status**: Production Ready  
